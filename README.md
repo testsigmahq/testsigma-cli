@@ -3,8 +3,6 @@
 The Testsigma CLI — author, run, and push **Testsigma script** (the `code` DSL)
 end-to-end tests to Testsigma Arcus & Suite.
 
-> Proprietary software. See [LICENSE](./LICENSE).
-
 ## Install
 
 ```bash
