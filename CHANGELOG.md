@@ -3,6 +3,10 @@
 All notable changes to `@testsigma/cli` are documented here.
 This project adheres to [Semantic Versioning](https://semver.org).
 
+## [0.0.2] - beta
+
+- Docs: remove proprietary-software note from README.
+
 ## [0.0.1] - beta
 
 - Initial beta release of the Testsigma CLI.
